@@ -1,7 +1,8 @@
-package com.distributed.product.infrastructure.adapter.in.controller;
+package com.distributed.product.infrastructure.adapter.in.controller.impl;
 
 
 import com.distributed.product.application.ports.in.IGetStockUseCase;
+import com.distributed.product.infrastructure.adapter.in.controller.IGetStockController;
 import com.distributed.product.infrastructure.adapter.in.resource.StockResource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

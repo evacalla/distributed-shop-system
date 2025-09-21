@@ -1,6 +1,7 @@
-package com.distributed.product.infrastructure.adapter.in.controller;
+package com.distributed.product.infrastructure.adapter.in.controller.impl;
 
 import com.distributed.product.application.ports.in.IGetProductUseCase;
+import com.distributed.product.infrastructure.adapter.in.controller.IGetProductController;
 import com.distributed.product.infrastructure.adapter.in.resource.ProductResource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

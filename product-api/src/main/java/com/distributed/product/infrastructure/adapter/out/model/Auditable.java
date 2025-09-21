@@ -1,4 +1,4 @@
-package com.distributed.product.domain.model;
+package com.distributed.product.infrastructure.adapter.out.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.MappedSuperclass;

@@ -1,4 +1,4 @@
-package com.distributed.product.application.service;
+package com.distributed.product.application.usercase;
 
 import com.distributed.product.application.ports.in.IGetProductUseCase;
 import com.distributed.product.application.ports.in.IGetStockUseCase;
